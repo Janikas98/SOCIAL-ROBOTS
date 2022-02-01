@@ -7,6 +7,41 @@
     "_name": "_62b5ce83"
   },
   {
+    "name": "nao-introduction",
+    "path": "/nao-introduction",
+    "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\nao-introduction.vue",
+    "chunkName": "pages/nao-introduction",
+    "_name": "_12b34352"
+  },
+  {
+    "name": "play_1",
+    "path": "/play_1",
+    "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\play_1.vue",
+    "chunkName": "pages/play_1",
+    "_name": "_2d2e8566"
+  },
+  {
+    "name": "play_2",
+    "path": "/play_2",
+    "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\play_2.vue",
+    "chunkName": "pages/play_2",
+    "_name": "_2d125664"
+  },
+  {
+    "name": "play_4",
+    "path": "/play_4",
+    "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\play_4.vue",
+    "chunkName": "pages/play_4",
+    "_name": "_2cd9f860"
+  },
+  {
+    "name": "play_5",
+    "path": "/play_5",
+    "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\play_5.vue",
+    "chunkName": "pages/play_5",
+    "_name": "_2cbdc95e"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "D:\\\\ROBOTS\\\\SOCIAL-ROBOTS\\\\social-robots\\\\pages\\\\index.vue",
