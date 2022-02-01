@@ -38,7 +38,7 @@
             <div class="py-6" style="display: inline-flex;">
               <div v-for="n in 1" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
               <span style="color: green; width: 30px" class="mx-1">U</span>
-              <span style="color: yellow width: 30px" class="mx-1">T</span>
+              <span style="color: yellow; width: 30px" class="mx-1">T</span>
               <div v-for="n in 2" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
             </div>
           </v-card-text>
