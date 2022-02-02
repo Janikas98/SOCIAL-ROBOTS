@@ -12,7 +12,7 @@
       </v-col>
       <v-col cols="4">
         <v-card style="width: 100%">
-          <video-player src="/nao_points_left.mp4" :autoplay="true" :loop="true" />
+          <video-player src="/nao_points_right.mp4" :autoplay="true" :loop="true" />
         </v-card>
       </v-col>
       <v-col cols="4">
