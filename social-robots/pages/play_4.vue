@@ -7,7 +7,7 @@
           x-large
           style="width: 100%; height: 40vh; font-size: 40px;"
           color="warning"
-          @click="$router.push('/play_4');"
+          @click="$router.push('/play_8');"
         >{{currentState.left}}</v-btn>
       </v-col>
       <v-col cols="4">
@@ -21,7 +21,7 @@
           x-large
           style="width: 100%; height: 40vh; font-size: 40px;"
           color="warning"
-          @click="$router.push('/play_5');"
+          @click="$router.push('/play_9');"
         >{{currentState.right}}</v-btn>
       </v-col>
     </v-row>
@@ -29,16 +29,16 @@
       <v-col cols="12" class="px-0">
         <v-card class="align-center" style="height: max-content">
           <v-card-text class="justify-center align-center" style="text-align: center !important; display: block; font-size: 40px !important; line-height: 100%; padding: 0px;">
-            <div class="pt-6" style="display: inline-flex;">
+            <div class="py-6" style="display: inline-flex;">
               <div v-for="n in 2" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
-              <span style="color: yellow">T</span>
+              <span style="color: yellow; width: 30px" class="mx-2">T</span>
               <div v-for="n in 2" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
             </div>
             <br />
             <div class="py-6" style="display: inline-flex;">
-              <span style="color: yellow">T</span>
+             <span style="color: yellow; width: 30px" class="mx-2">T</span>
               <div v-for="n in 2" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
-              <span style="color: yellow">C</span>
+              <span style="color: yellow; width: 30px" class="mx-2">C</span>
               <div v-for="n in 1" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
             </div>
           </v-card-text>
