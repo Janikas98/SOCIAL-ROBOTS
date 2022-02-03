@@ -21,6 +21,13 @@
     "_name": "_6237fe3c"
   },
   {
+    "name": "play_1_no_robot",
+    "path": "/play_1_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_1_no_robot.vue",
+    "chunkName": "pages/play_1_no_robot",
+    "_name": "_bbf41c4e"
+  },
+  {
     "name": "play_10",
     "path": "/play_10",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_10.vue",
@@ -98,6 +105,13 @@
     "_name": "_621bcf3a"
   },
   {
+    "name": "play_2_no_robot",
+    "path": "/play_2_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_2_no_robot.vue",
+    "chunkName": "pages/play_2_no_robot",
+    "_name": "_f8388910"
+  },
+  {
     "name": "play_20",
     "path": "/play_20",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_20.vue",
@@ -173,6 +187,13 @@
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_3.vue",
     "chunkName": "pages/play_3",
     "_name": "_61ffa038"
+  },
+  {
+    "name": "play_3_no_robot",
+    "path": "/play_3_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_3_no_robot.vue",
+    "chunkName": "pages/play_3_no_robot",
+    "_name": "_65c18517"
   },
   {
     "name": "play_30",

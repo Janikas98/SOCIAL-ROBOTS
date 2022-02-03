@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _2ca2fd8e = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
 const _1e52d0a7 = () => interopDefault(import('../pages/nao-introduction.vue' /* webpackChunkName: "pages/nao-introduction" */))
 const _6237fe3c = () => interopDefault(import('../pages/play_1.vue' /* webpackChunkName: "pages/play_1" */))
+const _bbf41c4e = () => interopDefault(import('../pages/play_1_no_robot.vue' /* webpackChunkName: "pages/play_1_no_robot" */))
 const _0d9795be = () => interopDefault(import('../pages/play_10.vue' /* webpackChunkName: "pages/play_10" */))
 const _0da5ad3f = () => interopDefault(import('../pages/play_11.vue' /* webpackChunkName: "pages/play_11" */))
 const _0db3c4c0 = () => interopDefault(import('../pages/play_12.vue' /* webpackChunkName: "pages/play_12" */))
@@ -18,6 +19,7 @@ const _0dfa3a45 = () => interopDefault(import('../pages/play_17.vue' /* webpackC
 const _0e0851c6 = () => interopDefault(import('../pages/play_18.vue' /* webpackChunkName: "pages/play_18" */))
 const _0e166947 = () => interopDefault(import('../pages/play_19.vue' /* webpackChunkName: "pages/play_19" */))
 const _621bcf3a = () => interopDefault(import('../pages/play_2.vue' /* webpackChunkName: "pages/play_2" */))
+const _f8388910 = () => interopDefault(import('../pages/play_2_no_robot.vue' /* webpackChunkName: "pages/play_2_no_robot" */))
 const _0f4c6e5d = () => interopDefault(import('../pages/play_20.vue' /* webpackChunkName: "pages/play_20" */))
 const _0f5a85de = () => interopDefault(import('../pages/play_21.vue' /* webpackChunkName: "pages/play_21" */))
 const _0f689d5f = () => interopDefault(import('../pages/play_22.vue' /* webpackChunkName: "pages/play_22" */))
@@ -29,6 +31,7 @@ const _0faf12e4 = () => interopDefault(import('../pages/play_27.vue' /* webpackC
 const _0fbd2a65 = () => interopDefault(import('../pages/play_28.vue' /* webpackChunkName: "pages/play_28" */))
 const _0fcb41e6 = () => interopDefault(import('../pages/play_29.vue' /* webpackChunkName: "pages/play_29" */))
 const _61ffa038 = () => interopDefault(import('../pages/play_3.vue' /* webpackChunkName: "pages/play_3" */))
+const _65c18517 = () => interopDefault(import('../pages/play_3_no_robot.vue' /* webpackChunkName: "pages/play_3_no_robot" */))
 const _110146fc = () => interopDefault(import('../pages/play_30.vue' /* webpackChunkName: "pages/play_30" */))
 const _110f5e7d = () => interopDefault(import('../pages/play_31.vue' /* webpackChunkName: "pages/play_31" */))
 const _61e37136 = () => interopDefault(import('../pages/play_4.vue' /* webpackChunkName: "pages/play_4" */))
@@ -62,6 +65,10 @@ export const routerOptions = {
     path: "/play_1",
     component: _6237fe3c,
     name: "play_1"
+  }, {
+    path: "/play_1_no_robot",
+    component: _bbf41c4e,
+    name: "play_1_no_robot"
   }, {
     path: "/play_10",
     component: _0d9795be,
@@ -107,6 +114,10 @@ export const routerOptions = {
     component: _621bcf3a,
     name: "play_2"
   }, {
+    path: "/play_2_no_robot",
+    component: _f8388910,
+    name: "play_2_no_robot"
+  }, {
     path: "/play_20",
     component: _0f4c6e5d,
     name: "play_20"
@@ -150,6 +161,10 @@ export const routerOptions = {
     path: "/play_3",
     component: _61ffa038,
     name: "play_3"
+  }, {
+    path: "/play_3_no_robot",
+    component: _65c18517,
+    name: "play_3_no_robot"
   }, {
     path: "/play_30",
     component: _110146fc,
