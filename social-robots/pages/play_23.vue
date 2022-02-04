@@ -7,13 +7,11 @@
           x-large
           style="width: 100%; height: 40vh; font-size: 40px;"
           color="warning"
-          @click="$router.push('/play_fin');"
+          @click="$router.push('/play_lose');"
         >{{currentState.left}}</v-btn>
       </v-col>
       <v-col cols="4">
-        <v-card style="width: 100%">
-          <video-player src="/nao_points_right.mp4" :autoplay="true" :loop="true" />
-        </v-card>
+        <v-img :src="require('../static/nao_points_right.gif')" contain max-height="40vh"></v-img>
       </v-col>
       <v-col cols="4">
         <v-btn
@@ -21,7 +19,7 @@
           x-large
           style="width: 100%; height: 40vh; font-size: 40px;"
           color="warning"
-          @click="$router.push('/play_fin');"
+          @click="$router.push('/play_win');"
         >{{currentState.right}}</v-btn>
       </v-col>
     </v-row>

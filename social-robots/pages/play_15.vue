@@ -11,9 +11,7 @@
         >{{currentState.left}}</v-btn>
       </v-col>
       <v-col cols="4">
-        <v-card style="width: 100%">
-          <video-player src="/nao_points_left.mp4" :autoplay="true" :loop="true" />
-        </v-card>
+        <v-img :src="require('../static/nao_points_left.gif')" contain max-height="40vh"></v-img>
       </v-col>
       <v-col cols="4">
         <v-btn

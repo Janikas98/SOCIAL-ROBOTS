@@ -35,11 +35,25 @@
     "_name": "_0d9795be"
   },
   {
+    "name": "play_10_no_robot",
+    "path": "/play_10_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_10_no_robot.vue",
+    "chunkName": "pages/play_10_no_robot",
+    "_name": "_bd93d706"
+  },
+  {
     "name": "play_11",
     "path": "/play_11",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_11.vue",
     "chunkName": "pages/play_11",
     "_name": "_0da5ad3f"
+  },
+  {
+    "name": "play_11_no_robot",
+    "path": "/play_11_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_11_no_robot.vue",
+    "chunkName": "pages/play_11_no_robot",
+    "_name": "_f9d843c8"
   },
   {
     "name": "play_12",
@@ -49,11 +63,25 @@
     "_name": "_0db3c4c0"
   },
   {
+    "name": "play_12_no_robot",
+    "path": "/play_12_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_12_no_robot.vue",
+    "chunkName": "pages/play_12_no_robot",
+    "_name": "_64f1a7bb"
+  },
+  {
     "name": "play_13",
     "path": "/play_13",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_13.vue",
     "chunkName": "pages/play_13",
     "_name": "_0dc1dc41"
+  },
+  {
+    "name": "play_13_no_robot",
+    "path": "/play_13_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_13_no_robot.vue",
+    "chunkName": "pages/play_13_no_robot",
+    "_name": "_46cf715a"
   },
   {
     "name": "play_14",
@@ -63,11 +91,25 @@
     "_name": "_0dcff3c2"
   },
   {
+    "name": "play_14_no_robot",
+    "path": "/play_14_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_14_no_robot.vue",
+    "chunkName": "pages/play_14_no_robot",
+    "_name": "_28ad3af9"
+  },
+  {
     "name": "play_15",
     "path": "/play_15",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_15.vue",
     "chunkName": "pages/play_15",
     "_name": "_0dde0b43"
+  },
+  {
+    "name": "play_15_no_robot",
+    "path": "/play_15_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_15_no_robot.vue",
+    "chunkName": "pages/play_15_no_robot",
+    "_name": "_0a8b0498"
   },
   {
     "name": "play_16",
@@ -77,11 +119,25 @@
     "_name": "_0dec22c4"
   },
   {
+    "name": "play_16_no_robot",
+    "path": "/play_16_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_16_no_robot.vue",
+    "chunkName": "pages/play_16_no_robot",
+    "_name": "_272e6392"
+  },
+  {
     "name": "play_17",
     "path": "/play_17",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_17.vue",
     "chunkName": "pages/play_17",
     "_name": "_0dfa3a45"
+  },
+  {
+    "name": "play_17_no_robot",
+    "path": "/play_17_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_17_no_robot.vue",
+    "chunkName": "pages/play_17_no_robot",
+    "_name": "_6372d054"
   },
   {
     "name": "play_18",
@@ -91,11 +147,25 @@
     "_name": "_0e0851c6"
   },
   {
+    "name": "play_18_no_robot",
+    "path": "/play_18_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_18_no_robot.vue",
+    "chunkName": "pages/play_18_no_robot",
+    "_name": "_9fb73d16"
+  },
+  {
     "name": "play_19",
     "path": "/play_19",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_19.vue",
     "chunkName": "pages/play_19",
     "_name": "_0e166947"
+  },
+  {
+    "name": "play_19_no_robot",
+    "path": "/play_19_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_19_no_robot.vue",
+    "chunkName": "pages/play_19_no_robot",
+    "_name": "_dbfba9d8"
   },
   {
     "name": "play_2",
@@ -119,11 +189,25 @@
     "_name": "_0f4c6e5d"
   },
   {
+    "name": "play_20_no_robot",
+    "path": "/play_20_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_20_no_robot.vue",
+    "chunkName": "pages/play_20_no_robot",
+    "_name": "_09dd0284"
+  },
+  {
     "name": "play_21",
     "path": "/play_21",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_21.vue",
     "chunkName": "pages/play_21",
     "_name": "_0f5a85de"
+  },
+  {
+    "name": "play_21_no_robot",
+    "path": "/play_21_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_21_no_robot.vue",
+    "chunkName": "pages/play_21_no_robot",
+    "_name": "_46216f46"
   },
   {
     "name": "play_22",
@@ -133,11 +217,25 @@
     "_name": "_0f689d5f"
   },
   {
+    "name": "play_22_no_robot",
+    "path": "/play_22_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_22_no_robot.vue",
+    "chunkName": "pages/play_22_no_robot",
+    "_name": "_8265dc08"
+  },
+  {
     "name": "play_23",
     "path": "/play_23",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_23.vue",
     "chunkName": "pages/play_23",
     "_name": "_0f76b4e0"
+  },
+  {
+    "name": "play_23_no_robot",
+    "path": "/play_23_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_23_no_robot.vue",
+    "chunkName": "pages/play_23_no_robot",
+    "_name": "_beaa48ca"
   },
   {
     "name": "play_24",
@@ -147,11 +245,25 @@
     "_name": "_0f84cc61"
   },
   {
+    "name": "play_24_no_robot",
+    "path": "/play_24_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_24_no_robot.vue",
+    "chunkName": "pages/play_24_no_robot",
+    "_name": "_faeeb58c"
+  },
+  {
     "name": "play_25",
     "path": "/play_25",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_25.vue",
     "chunkName": "pages/play_25",
     "_name": "_0f92e3e2"
+  },
+  {
+    "name": "play_25_no_robot",
+    "path": "/play_25_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_25_no_robot.vue",
+    "chunkName": "pages/play_25_no_robot",
+    "_name": "_64666ed9"
   },
   {
     "name": "play_26",
@@ -161,11 +273,25 @@
     "_name": "_0fa0fb63"
   },
   {
+    "name": "play_26_no_robot",
+    "path": "/play_26_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_26_no_robot.vue",
+    "chunkName": "pages/play_26_no_robot",
+    "_name": "_46443878"
+  },
+  {
     "name": "play_27",
     "path": "/play_27",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_27.vue",
     "chunkName": "pages/play_27",
     "_name": "_0faf12e4"
+  },
+  {
+    "name": "play_27_no_robot",
+    "path": "/play_27_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_27_no_robot.vue",
+    "chunkName": "pages/play_27_no_robot",
+    "_name": "_28220217"
   },
   {
     "name": "play_28",
@@ -175,11 +301,25 @@
     "_name": "_0fbd2a65"
   },
   {
+    "name": "play_28_no_robot",
+    "path": "/play_28_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_28_no_robot.vue",
+    "chunkName": "pages/play_28_no_robot",
+    "_name": "_09ffcbb6"
+  },
+  {
     "name": "play_29",
     "path": "/play_29",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_29.vue",
     "chunkName": "pages/play_29",
     "_name": "_0fcb41e6"
+  },
+  {
+    "name": "play_29_no_robot",
+    "path": "/play_29_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_29_no_robot.vue",
+    "chunkName": "pages/play_29_no_robot",
+    "_name": "_2844d556"
   },
   {
     "name": "play_3",
@@ -203,11 +343,25 @@
     "_name": "_110146fc"
   },
   {
+    "name": "play_30_no_robot",
+    "path": "/play_30_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_30_no_robot.vue",
+    "chunkName": "pages/play_30_no_robot",
+    "_name": "_54ece8ff"
+  },
+  {
     "name": "play_31",
     "path": "/play_31",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_31.vue",
     "chunkName": "pages/play_31",
     "_name": "_110f5e7d"
+  },
+  {
+    "name": "play_31_no_robot",
+    "path": "/play_31_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_31_no_robot.vue",
+    "chunkName": "pages/play_31_no_robot",
+    "_name": "_36cab29e"
   },
   {
     "name": "play_4",
@@ -217,11 +371,25 @@
     "_name": "_61e37136"
   },
   {
+    "name": "play_4_no_robot",
+    "path": "/play_4_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_4_no_robot.vue",
+    "chunkName": "pages/play_4_no_robot",
+    "_name": "_479f4eb6"
+  },
+  {
     "name": "play_5",
     "path": "/play_5",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_5.vue",
     "chunkName": "pages/play_5",
     "_name": "_61c74234"
+  },
+  {
+    "name": "play_5_no_robot",
+    "path": "/play_5_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_5_no_robot.vue",
+    "chunkName": "pages/play_5_no_robot",
+    "_name": "_297d1855"
   },
   {
     "name": "play_6",
@@ -231,11 +399,25 @@
     "_name": "_61ab1332"
   },
   {
+    "name": "play_6_no_robot",
+    "path": "/play_6_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_6_no_robot.vue",
+    "chunkName": "pages/play_6_no_robot",
+    "_name": "_0b5ae1f4"
+  },
+  {
     "name": "play_7",
     "path": "/play_7",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_7.vue",
     "chunkName": "pages/play_7",
     "_name": "_618ee430"
+  },
+  {
+    "name": "play_7_no_robot",
+    "path": "/play_7_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_7_no_robot.vue",
+    "chunkName": "pages/play_7_no_robot",
+    "_name": "_258ea8da"
   },
   {
     "name": "play_8",
@@ -245,11 +427,39 @@
     "_name": "_6172b52e"
   },
   {
+    "name": "play_8_no_robot",
+    "path": "/play_8_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_8_no_robot.vue",
+    "chunkName": "pages/play_8_no_robot",
+    "_name": "_61d3159c"
+  },
+  {
     "name": "play_9",
     "path": "/play_9",
     "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_9.vue",
     "chunkName": "pages/play_9",
     "_name": "_6156862c"
+  },
+  {
+    "name": "play_9_no_robot",
+    "path": "/play_9_no_robot",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_9_no_robot.vue",
+    "chunkName": "pages/play_9_no_robot",
+    "_name": "_9e17825e"
+  },
+  {
+    "name": "play_lose",
+    "path": "/play_lose",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_lose.vue",
+    "chunkName": "pages/play_lose",
+    "_name": "_7045e5f4"
+  },
+  {
+    "name": "play_win",
+    "path": "/play_win",
+    "component": "/Users/pedro/Desktop/MEIC/Robos/SOCIAL-ROBOTS/social-robots/pages/play_win.vue",
+    "chunkName": "pages/play_win",
+    "_name": "_fe0e8666"
   },
   {
     "name": "index",

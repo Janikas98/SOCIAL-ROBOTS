@@ -25,6 +25,6 @@ export default {
 
 <style>
 html, body {
-  overflow: hidden;
+  overflow: scroll;
 }
 </style>
