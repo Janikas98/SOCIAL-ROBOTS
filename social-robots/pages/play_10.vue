@@ -40,7 +40,7 @@
               <span style="color: green; width: 30px, width: 30px" class="mx-2">O</span>
               <span style="color: yellow; width: 30px" class="mx-2">T</span>
               <div v-for="n in 2" :key="n" class="mx-2" style="background-color: #888888; width: 30px; height: 40px;"></div>
-              
+
             </div>
             <br />
             <div class="py-6" style="display: inline-flex;">
@@ -50,6 +50,15 @@
               <span style="color: yellow; width: 30px" class="mx-2">U</span>
               <span style="color: green; width: 30px" class="mx-2">T</span>
             </div>
+          </v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
+    <v-row justify="center" align="center" class="my-3 mx-0">
+      <v-col cols="12" class="px-0">
+        <v-card class="align-center" style="height: max-content">
+          <v-card-text class="justify-center align-center" style="text-align: center !important; display: block; font-size: 40px !important; line-height: 100%; padding: 0px;">
+            <span style="color: red; width: 30px" class="mx-2">E X R A M H S D</span>
           </v-card-text>
         </v-card>
       </v-col>

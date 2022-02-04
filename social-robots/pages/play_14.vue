@@ -46,6 +46,15 @@
         </v-card>
       </v-col>
     </v-row>
+    <v-row justify="center" align="center" class="my-3 mx-0">
+      <v-col cols="12" class="px-0">
+        <v-card class="align-center" style="height: max-content">
+          <v-card-text class="justify-center align-center" style="text-align: center !important; display: block; font-size: 40px !important; line-height: 100%; padding: 0px;">
+            <span style="color: red; width: 30px" class="mx-2">B A K E R H L Z Y</span>
+          </v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 

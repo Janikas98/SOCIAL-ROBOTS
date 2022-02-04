@@ -11,8 +11,8 @@
       <v-col cols="12">
         <v-card style="height: 20vh">
           <v-card-title class="headline" style="text-align: center !important; display: block; font-size: 40px !important; line-height: 20vh; padding: 0px;">
-            <span v-if="$route.query.ai == 'yes'">AI assistance.</span>
-            <span v-else-if="$route.query.ai == 'no'">No AI assistance.</span>
+            <span v-if="$route.query.ai == 'yes'">Hi! I'm your AI advisor powered by advanced DEEP LEARNING methods!</span>
+            <span v-else-if="$route.query.ai == 'no'">Hi! I'm your robot advisor!</span>
           </v-card-title>
         </v-card>
       </v-col>
@@ -32,7 +32,7 @@
 <script>
 export default {
   name: 'NaoIntroduction',
-  
+
   mounted () {
     if (!['yes', 'no'].includes(this.$route.query.ai)) {
       this.$router.push('/')
